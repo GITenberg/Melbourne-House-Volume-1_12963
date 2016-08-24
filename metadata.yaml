@@ -1,0 +1,30 @@
+_repo: Melbourne-House-Volume-1_12963
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Warner, Susan
+    aliases:
+    - Warner, Susan Bogert
+    - Wetherell, Elizabeth
+    birthdate: 1819
+    deathdate: 1885
+    gutenberg_agent_id: '4744'
+    url: http://www.gutenberg.org/2009/agents/4744
+    wikipedia: http://en.wikipedia.org/wiki/Susan_Warner
+description: ''
+gutenberg_issued: '2004-07-20'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12963'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Children -- Religious life -- Juvenile fiction'
+- !lcsh 'Christian life -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Tableaux -- Juvenile fiction'
+- GITenberg
+title: Melbourne House, Volume 1
+url: http://www.gutenberg.org/ebooks/12963
